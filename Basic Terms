@@ -1,0 +1,11 @@
+Common Terms:
+1. AGI = artificial general intelligence , is a strong ai which have broad level of use case.
+2. LLM = large language model ,neural network-based model on large amount of text data to underatand human language. [working of llm]
+3. Inference = applying pre trained model knowledge on unseen data.
+4. Training = model learns from given labelled or unlabelled data .
+5. Embeddings = Embedding is a way to convert real-world things like words or images into numbers (vectors) so that AI models can understand and work with them.
+6. Vector Databases = A vector database stores and retrieves vectors (AI embeddings), allowing fast and intelligent similarity search
+7. AI agents = An AI agent is a smart program that can observe its environment, make decisions, and act on its own to reach goals 
+8. RAG = retrival aurgument generation , is an ai method that combines search engin and text generation. it searchs all docs for revelent info and give a output from all avaible latest data.
+9. Prompt engineering = is the process of designing inputs (prompts) to get the most accurate, useful, or creative outputs from AI models like LLMs (Large Language Models).
+
